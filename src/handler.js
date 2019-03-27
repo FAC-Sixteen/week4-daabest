@@ -1,26 +1,23 @@
 const fs = require('fs');
+const path = require('path');
 
-function handler(request, response){
-    let endpoint = request.url;
-    console.log(endpoint);
-
-    let method = request.method;
-    console.log(method);
-    // if(endpoint == '/abc'){
-    //     response.writeHead(200, {"Content-Type": "text/html"});
-    //     response.write('Yoo');
-    //     response.end();
-
-    // }
-    // else{
-
-
-    // checking to see if server up and running!!!
-response.writeHead(200, {"Content-Type": "text/html"});
-response.write("I am working");
-response.end();
-// }
-
+function handler(request, response) {
+    const endpoint = request.url;
+    if (endpoint === "/") {
+        fs.readFile(path.join(__dirname, "../public/index.html"), function (error, file) {
+            if (error) {
+                response.writeHead(500, {
+                    'content-type': 'text/plain'
+                });
+                response.end('server error');
+            } else {
+                response.writeHead(200, {
+                    'content-type': 'text/html'
+                });
+                response.end(file);
+            }
+        })
+    }
 }
 
 
