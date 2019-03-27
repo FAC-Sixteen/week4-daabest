@@ -1,0 +1,274 @@
+{
+    "plants": [
+        {
+            "id": "01",
+            "name": "Apple",
+            "latin": "Malus domestica",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "02",
+            "name": "Asparagus",
+            "latin": "Asparagus officinalis",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "03",
+            "name": "Cassava",
+            "latin": "Manihot esculenta",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "04",
+            "name": "Cherry",
+            "latin": "Prunus cerasus",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "05",
+            "name": "Grape",
+            "latin": "Vitis spp.",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "06",
+            "name": "Indian pea",
+            "latin": "Lathyrus sativus",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "07",
+            "name": "Kidney bean or common bean",
+            "latin": "Phaseolus vulgaris",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "08",
+            "name": "Lima bean or butter bean",
+            "latin": "Phaseolus lunatus",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "09",
+            "name": "Lemon",
+            "latin": "Citrus limon",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "10",
+            "name": "Mango tree",
+            "latin": "Mangifera indica",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "11",
+            "name": "Nutmeg",
+            "latin": "Myristica fragrans",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "12",
+            "name": "Onions and garlic",
+            "latin": "Allium spp.",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "13",
+            "name": "Potato",
+            "latin": "Solanum tuberosum",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "14",
+            "name": "Rhubarb",
+            "latin": "Rheum rhaponticum",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "15",
+            "name": "Tomato",
+            "latin": "Solanum lycopersicum",
+            "type": "food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "16",
+            "name": "Jequirity/crab's eye/rosary pea/'John Crow' bead/precatory bean/Indian licorice/akar saga/giddee giddee/jumbie bead/ruti/weather plant",
+            "latin": "Abrus precatorius",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "17",
+            "name": "Aconite/wolfsbane/monkshood",
+            "latin": "Aconitum genus",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "18",
+            "name": "Doll's eyes/white baneberry",
+            "latin": "Actaea pachypoda",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "19",
+            "name": "Sabi star/kudu/desert-rose",
+            "latin": "Adenium obesum",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "20",
+            "name": "Pheasant's eye/false hellebore",
+            "latin": "Adonis vernalis",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "21",
+            "name": "Horse-chestnut",
+            "latin": "Aesculus hippocastanum",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "22",
+            "name": "White snakeroot",
+            "latin": "Ageratina altissima",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "23",
+            "name": "Corn cockle",
+            "latin": "Agrostemma githago",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "24",
+            "name": "Wood anemone/windflower/thimbleweed",
+            "latin": "Anemone nemorosa",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "25",
+            "name": "Anthurium/tailflower/flamingo flower",
+            "latin": "Anthurium genus",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "26",
+            "name": "Columbine",
+            "latin": "Aquilegia genus",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "27",
+            "name": "Betel nut palm/pinyang",
+            "latin": "Areca catechu",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "28",
+            "name": "",
+            "latin": "",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "29",
+            "name": "Mexican poppy/flowering thistle/cardo/cardosanto",
+            "latin": "Argemone mexicana",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        },
+        {
+            "id": "30",
+            "name": "Wolf's bane",
+            "latin": "Arnica montana",
+            "type": "non-food",
+            "effects": "",
+            "img": "",
+            "link": ""
+        }
+    ]
+}
