@@ -1,5 +1,3 @@
-
-const message = 'I am happy to be a part of node workshop!!!';
 const fs = require('fs');
 
 function handler(request, response){
@@ -8,9 +6,6 @@ function handler(request, response){
 
     let method = request.method;
     console.log(method);
-
-
-
     // if(endpoint == '/abc'){
     //     response.writeHead(200, {"Content-Type": "text/html"});
     //     response.write('Yoo');
@@ -22,7 +17,7 @@ function handler(request, response){
 
     // checking to see if server up and running!!!
 response.writeHead(200, {"Content-Type": "text/html"});
-response.write(message);
+response.write("I am working");
 response.end();
 // }
 
