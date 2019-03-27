@@ -1,7 +1,7 @@
 # Week 4 Project
 
-## Overview
-An autocomplete web app that allows to quickly find and select GitHub handles of FAC members.  
+## 🌱 Overview
+An autocomplete web app that allows to find and select poisonous plants.  
 
 ## Team:
 
@@ -32,13 +32,18 @@ Dylan @Dalmano
 - deploy the app on Heroku 
 
 ### Strech Goals:
-- adding names and pictures to the searched GitHub handles
+- adding pictures to the JSON object and displaying them on the page
+- better CSS
 
-## User Journey
+## 🚖 User Journey
+![User Journey](https://i.ibb.co/TTF33LK/IMG-4340.jpg)
 
 ## Our workflow:
 1. Setting up the project structure 
-2. Getting the JSON object from the GitHub API
+2. Creating out JSON object
+3. Drawing our user journey
+4. Initial HTML and CSS setup
+5. Setting up the server
 
 ## Testing
 
