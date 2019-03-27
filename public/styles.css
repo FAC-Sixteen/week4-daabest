@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #B20000;
+    font-family: 'Germania One', cursive;
+    font-size: 4em;
+    letter-spacing: 3px;
+    text-shadow: -2px 0 #3b4f37, 0 2px #3b4f37, 2px 0 #3b4f37, 0 -2px #3b4f37;
+    margin: 10px;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 1.5em;
+}
+
+.search-space {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    font-size: 1.5em;
+}
+
+.search-space p {
+    margin: 10px;
+}
+
+input {
+    font-size: 1.5em;
+    margin: 10px;
+    border-radius: 25px;
+    border: solid #3b4f37 3px;
+    padding: 10px;
+    background-color: black;
+}
