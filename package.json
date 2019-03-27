@@ -1,0 +1,23 @@
+{
+  "name": "week4-daabest",
+  "version": "1.0.0",
+  "description": "## Overview An autocomplete web app that allows to quickly find and select GitHub handles of FAC members.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAC-Sixteen/week4-daabest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAC-Sixteen/week4-daabest/issues"
+  },
+  "homepage": "https://github.com/FAC-Sixteen/week4-daabest#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
