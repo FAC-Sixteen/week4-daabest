@@ -65,7 +65,10 @@ lol
 - understanding front- and back-end communication
 - wolfsbane (aconitum genus) vs wolf's bane (arnica montana)?? (Anna T's personal problem)
 
-Have you learned from your mistakes?
+**Have you learned from your mistakes?**
+
 ![no](https://1.bp.blogspot.com/-hht9EJDz7XM/WCTfSwE8GmI/AAAAAAAAA5o/NslAPokCIDwBvJ1crwd62UG_DJm4FECzwCEw/s1600/lea.gif)
+
+
 
 ![frontend vs backend](https://i.redd.it/x4wu9ospath01.jpg)
