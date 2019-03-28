@@ -1,4 +1,14 @@
 const userInput = document.querySelector(".user-input")
+const select = document.getElementsByTagName("select")[0];
+
+function createOption(arr) {
+    for (b = 0; b < arr.length; b++) {
+        const options = document.createElement("option");
+        options.value = arr[b]
+        options.textContent = arr[b]
+        select.appendChild(options)
+    }
+}
 
 function updateInputValue() {
     const userInputValue = userInput.value;
@@ -15,6 +25,7 @@ function searchArr(userInputValue) {
         }
     }
     console.log("Matched:", matches)
+    createOption(matches)
     return matches
 }
 
