@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const plants = require('./plants.json');
+// const queryString = require('query-string');
 
 function handler(request, response) {
     const url = request.url;
@@ -26,6 +28,13 @@ function handler(request, response) {
             });
             response.end(file);
         });
+
+    } else if (url.includes("query")) {
+        console.log(plants);
+        // const plantsObj = JSON.parse(plants);
+        // let plantArr = [];
+        // const searchString = queryString.parse(request.url)[]
+        
     } else {
         const filePath = path.join(__dirname + '/..' + "/public") + url
         fs.readFile(filePath, function (error, file) {
