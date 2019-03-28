@@ -1,9 +1,9 @@
 body {
     display: flex;
     flex-direction: column;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    background-color: black;
+    color: rgb(179, 157, 157);
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(25, 36, 22);
     margin: 0 auto;
     text-align: center;
 }
@@ -13,13 +13,18 @@ h1 {
     font-family: 'Germania One', cursive;
     font-size: 4em;
     letter-spacing: 3px;
-    text-shadow: -2px 0 #3b4f37, 0 2px #3b4f37, 2px 0 #3b4f37, 0 -2px #3b4f37;
-    margin: 10px;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    margin: 40px 10px;
+    text-transform: uppercase;
 }
 
 h2 {
     margin: 10px;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    color: rgb(179, 157, 157);
     font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 .search-space {
@@ -27,23 +32,30 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 30px;
+    margin: 50px;
     font-size: 1.5em;
 }
 
 .search-space p {
     margin: 10px;
+    letter-spacing: 2px;
 }
 
 .user-input {
-    color: white;
+    color: rgb(179, 157, 157);
+}
+
+input:focus {
+    border: solid #B20000 5px;
 }
 
 input {
+    transition: all .7s ease;
+    font-family: 'Roboto Slab', serif;
     font-size: 1.5em;
-    margin: 10px;
+    margin: 40px;
     border-radius: 25px;
-    border: solid #3b4f37 3px;
-    padding: 10px;
-    background-color: black;
+    border: solid #3b4f37 5px;
+    padding: 10px 15px;
+    background-color: rgb(25, 36, 22);
 }
