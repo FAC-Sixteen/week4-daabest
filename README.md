@@ -55,8 +55,6 @@ Dylan @Dalmano
 ✨ We didn't have time to do testing ✨
 ![cry](https://media.giphy.com/media/mBaNKEmk9SUKs/giphy.gif)
 
-## 🔓 Accessibility
-
 ## 🚀 Deployment
 
 ## 🔥 Problems & what we've learned
