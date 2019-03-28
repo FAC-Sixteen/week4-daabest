@@ -53,7 +53,7 @@ Dylan @Dalmano
 
 ## ⛔️ Testing
 ✨ We didn't have time to do testing ✨
-!(cry)[https://media.giphy.com/media/KDRv3QggAjyo/giphy.gif]
+!(cry)[https://media.giphy.com/media/mBaNKEmk9SUKs/giphy.gif]
 
 ## 🔓 Accessibility
 
