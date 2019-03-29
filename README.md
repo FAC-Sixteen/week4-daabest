@@ -52,7 +52,7 @@ https://localhost:3000
 7. Extracting the array of plant names from the JSON object
 8. Getting the user input value with an event listener
 9. Writing a function that matches input values with a dummy array
-~10. Deploying what we managed to write so far on Heroku~
+10. ~Deploying what we managed to write so far on Heroku~
 
 ## ⛔️ Testing
 ✨ We didn't have time to do testing ✨
@@ -68,6 +68,7 @@ lol
 - filepath syntax can be tricky (.., concatenation, comma vs slash, etc)
 - where do requests come from and how are they handled?
 - we did not listen to anybody despite nodding understandingly
+
 ![notlistening](https://media2.giphy.com/media/1BCIlYHwJ3hu0/giphy.gif?cid=790b76115c9e13ee624b4f6b452fa48b)
 - we struggled to access the .json object
 - understanding front- and back-end communication
