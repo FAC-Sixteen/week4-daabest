@@ -59,9 +59,6 @@ https://localhost:3000
 ![cry](https://media.giphy.com/media/mBaNKEmk9SUKs/giphy.gif)
 
 ## 🚀 Deployment
-
-![DPLMNT2](https://media.giphy.com/media/yNsDcQxnv86YIHC2vS/giphy.gif)
-
 ![DPLMNT](https://media.giphy.com/media/65ODCwM00NVmEyLsX3/giphy.gif)  
 
 
