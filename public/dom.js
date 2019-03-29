@@ -1,12 +1,12 @@
 const userInput = document.querySelector(".user-input")
-const select = document.getElementsByTagName("select")[0];
+const datalist = document.querySelector("#json-datalist");
 
 function createOption(arr) {
     for (b = 0; b < arr.length; b++) {
         const options = document.createElement("option");
         options.value = arr[b]
         options.textContent = arr[b]
-        select.appendChild(options)
+        datalist.appendChild(options)
     }
 }
 
