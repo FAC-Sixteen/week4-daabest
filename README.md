@@ -19,17 +19,25 @@ Anna T @tloth :baby_chick: Anna B @aniablaziak :baby_chick: Burhan @Baalwaan :ba
 - type-spec
 
 ## 🍽 How to set up this project?
+1. Clone this repo to your local machine
+```git clone https://github.com/FAC-Sixteen/week4-daabest/```
+2. Instal dependencies 
+```npm i```
+3. Start running yor local server
+```npm start```
+4. Open you browser at:
+https://localhost:3000
 
 ## 🏔 Goals:
 - setting up a good file structure, separation of concerns
 - testing where appropriate
 - accessible
-- deploy the app on Heroku 
 
 ### 🌋 Strech Goals:
 - finishing the project
+- deploy the app on Heroku 
 - adding pictures to the JSON object and displaying them on the page
-- better CSS
+- coming up with a interesing design and CSS effects on the search bar
 
 ## 🚖 User Journey
 ![User Journey](https://i.ibb.co/TTF33LK/IMG-4340.jpg)
