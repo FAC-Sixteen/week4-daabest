@@ -20,7 +20,7 @@ function searchArr(userInputValue) {
     const arr = ["Apple", "Asparagus", "Cassava", "Cherry", "Grape", "Indian pea", "Kidney bean or common bean", "Lima bean or butter bean", "Lemon", "Mango tree", "Nutmeg", "Onions and garlic", "Potato"]
     const matches = [];
     for (var i = 0; i < arr.length; i++) {
-        if (arr[i].includes(userInputValue)) {
+        if (arr[i].toLowerCase().includes(userInputValue.toLowerCase())) {
             matches.push(arr[i])
         }
     }
@@ -33,13 +33,13 @@ userInput.addEventListener("input", function () {
     updateInputValue()
 })
 
-const plantCall  = () => {
+const plantCall = () => {
     const plantRequest = new XMLHttpRequest();
     let plantUrl = "/query" + value;
 
-    plantRequest.onreadystatechange = function() {
+    plantRequest.onreadystatechange = function () {
         if (plantRequest.readyState === 4 && plantRequest.status === 200) {
-            
+
         }
     }
 }
