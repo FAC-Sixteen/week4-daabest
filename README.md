@@ -60,7 +60,7 @@ https://localhost:3000
 
 ## 🚀 Deployment
 
-![DPLMNT](https://media.giphy.com/media/65ODCwM00NVmEyLsX3/giphy.gif) ![DPLMNT](https://media.giphy.com/media/yNsDcQxnv86YIHC2vS/giphy.gif)
+![DPLMNT](https://media.giphy.com/media/65ODCwM00NVmEyLsX3/giphy.gif)  ![DPLMNT2](https://media.giphy.com/media/yNsDcQxnv86YIHC2vS/giphy.gif)
 
 ## 🔥 Problems & what we've learned
 - not understanding what url endpoints are and where they come from 🙃🙃🙃
