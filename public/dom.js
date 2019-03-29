@@ -33,13 +33,13 @@ userInput.addEventListener("input", function () {
     updateInputValue()
 })
 
-const plantCall  = () => {
+const plantCall = () => {
     const plantRequest = new XMLHttpRequest();
     let plantUrl = "/query" + value;
 
-    plantRequest.onreadystatechange = function() {
+    plantRequest.onreadystatechange = function () {
         if (plantRequest.readyState === 4 && plantRequest.status === 200) {
-            
+
         }
     }
 }
