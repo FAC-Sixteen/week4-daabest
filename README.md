@@ -64,6 +64,7 @@ lol
 
 ## 🔥 Problems & what we've learned
 - not understanding what url endpoints are and where they come from 🙃🙃🙃
+![why](https://media.giphy.com/media/MKCdpXNWYWycw/giphy.gif)
 - API struggles - trying and failing to find a usable and obtainable one --> ended up creating one manually (Wikipedia: sandbox documentation not great; GitHub: we struggled much, private data shall remain private)
 - filepath syntax can be tricky (.., concatenation, comma vs slash, etc)
 - where do requests come from and how are they handled?
